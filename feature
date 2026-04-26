@@ -4,3 +4,7 @@ commit 3
 
 conflict 1
 
+
+
+
+conflict 2 (2.0) [line10]
